@@ -35,6 +35,19 @@ body {
     color:green;
 }
 
+.be {
+
+}
+
 .container { 
   background-color: gainsboro;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  background-color:gainsboro ;
+  text-align: center;
 }
