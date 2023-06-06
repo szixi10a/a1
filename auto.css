@@ -35,9 +35,6 @@ body {
     color:green;
 }
 
-.be {
-
-}
 
 .container { 
   background-color: gainsboro;
@@ -50,4 +47,6 @@ h1 {
 p {
   background-color:gainsboro ;
   text-align: center;
+
 }
+
